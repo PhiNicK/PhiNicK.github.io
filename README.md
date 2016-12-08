@@ -2,6 +2,9 @@
 
 #Welcome to PhiNicK
 
-##My Profile
+  ##My Profile
+
 * Age: 17 
-* Experience: HTML&CSS on CodeAcademy courses 
+* Experience:<strong> HTML and CSS </strong>on CodeAcademy courses 
+
+<img src="W3KjSwdAISU.jpg" title="Cat" alt="Images1" >
