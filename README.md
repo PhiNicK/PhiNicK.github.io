@@ -5,7 +5,7 @@
 ##**Мой профиль**
 
 * Возраст: 17 
-* Пройденный курс **HTML&CSS** на **[CodeAcademy](codecademy.com)**
+* Пройденный курс **HTML&CSS** на **[CodeAcademy](https://www.codecademy.com/learn/learn-html-css)**
 
 ##**Почему я хочу стать _"айтишником"?_**
 
